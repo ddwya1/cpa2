@@ -11,9 +11,9 @@ tls:
   key: ""
 
 remote-management:
-  allow-remote: false
-  secret-key: ""
-  disable-control-panel: false
+  allow-remote: true
+  secret-key: "5"
+  disable-control-panel: true
 
 auth-dir: "/CLIProxyAPI/auths"
 
